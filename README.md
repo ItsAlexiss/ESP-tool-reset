@@ -46,4 +46,4 @@ La aplicación proporciona una interfaz gráfica para detectar dispositivos, ide
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/TU-USUARIO/ESP-Tool-Pro.git
+https://github.com/ItsAlexiss/ESP-tool-reset.git
