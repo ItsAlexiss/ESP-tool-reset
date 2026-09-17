@@ -1,7 +1,7 @@
 # ESP Tool Pro
 
-**Herramienta profesional para ESP32 y ESP8266.**  
-**Professional utility for ESP32 and ESP8266.**
+**Herramienta profesional PARA RESET de ESP.**  
+**Professional utility for ESP**
 
 Creado por Alexis.  
 Created by Alexis.
